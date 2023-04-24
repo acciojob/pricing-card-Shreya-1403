@@ -1,1 +1,30 @@
-/*  your css code here. If applicable */
+
+.card{
+	left: 50%;
+	padding:30px;
+	width: 400px;
+	length:600px;
+	background-color: whitesmoke;
+	box-shadow: 4px 5px 4px gray;
+	text-align: center;	
+}
+
+h1{
+	font-size: 50px;
+	font-weight: 900;
+}
+
+p{
+	font-size: 30px;
+	font-weight: 500;
+}
+
+button{
+	font-size: 30px;
+	font-weight: 500;
+	color: white;
+	background-color: rgb(200,0,50);
+	padding: 10px 30px;
+	border: none;
+	border-radius: 10px;
+}
